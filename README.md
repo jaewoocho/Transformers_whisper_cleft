@@ -20,9 +20,9 @@
   
 # 05. Code Demonstration 
  - Whisper Model Code Explanation - Pure audio data without noise:
-   - https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/Explaning_whisper_model_code.ipynb 
+   - https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/Explaning_whisper_model_code_without_noise.ipynb
  - Whisper Model Results - audio data with noise:
-   - https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/cleft_palate_notebook.ipynb
+   - https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/cleft_palate_notebook_with_noise.ipynb 
    
 # 06. Critical Anaylsis 
   - What is the impact of this project?
