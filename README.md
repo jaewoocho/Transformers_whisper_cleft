@@ -19,7 +19,8 @@
 - Descriptive card covering uses, sources, permissions, code
   
 # 05. Code Demonstration 
- - Model Results: [https://drive.google.com/file/d/1h7UsXhK_-_cmLd1LhWXgZ5ll4YBlXcZQ/view?usp=sharing](https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/cleft_palate_notebook.ipynb)
+ - Whisper Model code Explanation: https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/Explaning_whisper_model_code.ipynb 
+ - Whisper Model Results: [https://drive.google.com/file/d/1h7UsXhK_-_cmLd1LhWXgZ5ll4YBlXcZQ/view?usp=sharing](https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/cleft_palate_notebook.ipynb)
    
 # 06. Critical Anaylsis 
   - What is the impact of this project?
