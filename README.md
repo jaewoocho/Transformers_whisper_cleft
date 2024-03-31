@@ -13,9 +13,11 @@
 
 
 # 03. Interactive Demonstration
+- Interactive demonstration (e.g. Gradio, Streamlit, Huggingface Spaces, other)
 
 # 04. Model card
-
+- Descriptive card covering uses, sources, permissions, code
+  
 # 05. Code Demonstration 
  - Model Results: https://drive.google.com/file/d/1h7UsXhK_-_cmLd1LhWXgZ5ll4YBlXcZQ/view?usp=sharing
    
