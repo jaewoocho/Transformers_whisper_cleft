@@ -19,9 +19,9 @@
 - Descriptive card covering uses, sources, permissions, code
   
 # 05. Code Demonstration 
- - Whisper Model code Explanation:
+ - Whisper Model Code Explanation - Pure audio data without noise:
    - https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/Explaning_whisper_model_code.ipynb 
- - Whisper Model Results:
+ - Whisper Model Results - audio data with noise:
    - https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/cleft_palate_notebook.ipynb
    
 # 06. Critical Anaylsis 
