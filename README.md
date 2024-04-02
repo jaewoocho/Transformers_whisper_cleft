@@ -36,3 +36,4 @@
   - https://platform.openai.com/docs/guides/speech-to-text
   - https://replicate.com/openai/whisper
   - https://learn.microsoft.com/en-us/azure/ai-services/speech-service/whisper-overview
+  - Special Thanks for Myranda for helping!
