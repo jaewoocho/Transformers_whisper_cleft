@@ -27,8 +27,15 @@
    
 # 06. Critical Anaylsis 
   - What is the impact of this project?
-  - What does it reveal or suggest?
+    -  This project could make speech disorder diagnosis quicker and more accessible, especially in areas where speech pathologists are scarce. It has the potential to:
+      - Streamline hypernasality detection, speeding up patient access to treatment.
+      - Help speech pathologists by handling initial assessments, allowing them to focus on treatment plans.
   - What is the next step?
+    -  Undergo extensive testing to ensure reliability across various speech patterns.
+    -  Conduct clinical trials to validate its practical effectiveness.
+    -  Continuously improve based on real-world feedback and data.
+    -  Explore applications for other speech disorders and different languages.
+    -  Presenting at the 2024 VOICE AI SYMPOSIUM will be a chance to gather expert insights and explore further development opportunities.
 
 # 07. Resource Links
   - https://arxiv.org/abs/2212.04356
