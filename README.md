@@ -13,10 +13,10 @@
 
 
 # 03. Interactive Demonstration
-- Interactive demonstration (e.g. Gradio, Streamlit, Huggingface Spaces, other)
+- Interactive demonstration: https://huggingface.co/spaces/jcho02/Transformers_whisper_cleft 
 
 # 04. Model card
-- Descriptive card covering uses, sources, permissions, code
+- [Descriptive card covering uses, sources, permissions, code](https://huggingface.co/jcho02/whisper_cleft)
   
 # 05. Code Demonstration 
  - Whisper Model Code Explanation - Pure audio data without noise:
