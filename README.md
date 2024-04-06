@@ -16,7 +16,7 @@
   - Takes audio data as input and translates it into text as output.
   - Input: Audio - "This apple is red"
   - Output: Text - "This apple is red"
-  - 
+    
 ## The Finetuned Whisper Model
   - Takes audio data as input and classifies it as hypernasility or not as output
   - Input: Audio file "This apple is red"
