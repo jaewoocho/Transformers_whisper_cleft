@@ -12,6 +12,15 @@
 ![image](https://github.com/jaewoocho/Transformers_whisper_cleft/assets/25238652/bad84052-3c7c-4524-b8d5-f0da8bc0f86f)
 ![image](https://github.com/jaewoocho/Transformers_whisper_cleft/assets/25238652/422985cb-39ca-4de6-9a83-8733bc4240d8)
 
+## The Original Whisper Model
+  - Takes audio data as input and translates it into text as output.
+  - Input: Audio - "This apple is red"
+  - Output: Text - "This apple is red"
+  - 
+## The Finetuned Whisper Model
+  - Takes audio data as input and classifies it as hypernasility or not as output
+  - Input: Audio file "This apple is red"
+  - Output: Text - "Hypernasility(Speech impediment) is Detected" 
 
 # 03. Interactive Demonstration
 - Interactive demonstration: https://huggingface.co/spaces/jcho02/Transformers_whisper_cleft 
