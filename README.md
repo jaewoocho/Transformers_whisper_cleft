@@ -1,6 +1,7 @@
 # Fine-tuning Whisper on Speech Pathology
 ![image](https://github.com/jaewoocho/Transformers_whisper_cleft/assets/25238652/3d47cdc3-ee14-4913-81ab-4c2efb6e1932)
 # 00. Fine-tuning Whisper on Speech Language Pathology
+ - By Jaewoo Cho & Mandy Xu
 # 01. Overview
 - The goal of the Cleft Palate project at Vanderbilt DSI is to classify audio clips of patients' voices as containing hypernasality (a speech impediment) or not. The patients with hypernasality can then be recommended for speech pathology intervention. This is currently evaluated by human speech pathologists, which requires access to these medical providers. Our hope is to train a model that can classify this speech impediment for expedited patient access to a speech pathologist.
 - We plan to use the Whisper embedings from OpenAI and train a classification model, either using Whisper with a sequence classification head or another classification LLM.
