@@ -6,6 +6,7 @@
 - We plan to use the Whisper embedings from OpenAI and train a classification model, either using Whisper with a sequence classification head or another classification LLM.
 - This project will be presented to the 2024 VOICE AI SYMPOSIUM at Tampa, Florida
 ![image](https://github.com/jaewoocho/Transformers_whisper_cleft/assets/25238652/c63a21d4-c0ee-40c4-94ce-d6e4ccc2a2da)
+![image](https://github.com/jaewoocho/Transformers_whisper_cleft/assets/25238652/a80b9fdf-0eb3-494c-99fb-cd91f29637ba)
 
 # 02. OPENAI Whisper Model 
 - The Whisper model from OpenAI is an automatic speech recognition (ASR) system designed to provide highly accurate transcriptions. It's known for its capability to handle a wide range of audio qualities and accents. The model was trained on a diverse dataset comprising various languages and noisy environments, which contributes to its robustness and versatility. Whisper's proficiency lies in not just transcribing but also in its ability to identify the language being spoken. This feature makes it a valuable tool for multilingual transcription tasks. OpenAI developed Whisper with the aim of enhancing accessibility and bridging communication barriers in various applications, from voice assistants to transcription services.
