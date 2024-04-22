@@ -27,7 +27,7 @@
   - A new class called SpeechClassifier is created, which utilizes Whisper's encoder and adds a series of dense layers for classification.
   - This class modifies the Whisper model's output to make it suitable for audio classification tasks by implementing a custom forward method that processes encoder outputs through these additional layers to classify different sounds .
 ![image](https://github.com/jaewoocho/Transformers_whisper_cleft/assets/25238652/20c2a213-ee53-423e-96e0-faff91fc6d4e)
-![Uploading image.png…]()
+
 
 # 03. Interactive Demonstration
 - Interactive demonstration: https://huggingface.co/spaces/jcho02/Transformers_whisper_cleft 
