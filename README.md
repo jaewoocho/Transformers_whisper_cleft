@@ -20,7 +20,7 @@
 ## The Finetuned Whisper Model
   - Takes audio data as input and classifies it as hypernasility or not as output
   - Input: Audio file "This apple is red"
-  - Output: Text - "Hypernasility(Speech impediment) is Detected"
+  - Output: 0 or 1, which translates into Text - "Hypernasility(Speech impediment) is Detected"
 
 ## What has changed?
   - A new class called SpeechClassifier is created, which utilizes Whisper's encoder and adds a series of dense layers for classification.
