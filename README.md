@@ -36,7 +36,11 @@
  - Whisper Model Code Explanation - Pure audio data without noise:
    - https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/Explaning_whisper_model_code_without_noise.ipynb
  - Whisper Model Results - audio data with noise:
-   - https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/cleft_palate_notebook_with_noise.ipynb 
+   - https://github.com/jaewoocho/Transformers_whisper_cleft/blob/main/cleft_palate_notebook_with_noise.ipynb
+  
+# 05A - Results
+![image](https://github.com/jaewoocho/Transformers_whisper_cleft/assets/25238652/e081f5e2-2c09-4050-b573-04943afc0331)
+
    
 # 06. Critical Anaylsis 
   - What is the impact of this project?
